@@ -1,10 +1,10 @@
 {
   "expressions": {
-    "neutral":"https://raw.githubusercontent.com/NanShouan/OMNES/refs/heads/main/MIRA/mira_neutral.png",
-    "pleased":"https://raw.githubusercontent.com/NanShouan/OMNES/refs/heads/main/MIRA/mira_pleased.png",
-    "thinking":"https://raw.githubusercontent.com/NanShouan/OMNES/refs/heads/main/MIRA/mira_think.png",
-    "surprised":"https://raw.githubusercontent.com/NanShouan/OMNES/refs/heads/main/MIRA/mira_surprised.png",
-    "depressed":"https://raw.githubusercontent.com/NanShouan/OMNES/refs/heads/main/MIRA/mira_depressed.png",
-    "embarrassed":"https://raw.githubusercontent.com/NanShouan/OMNES/refs/heads/main/MIRA/mira_embarrassed.png"
+    "neutral":      "https://cdn.jsdelivr.net/gh/NanShouan/OMNES@main/MIRA/mira_neutral.png",
+    "pleased":      "https://cdn.jsdelivr.net/gh/NanShouan/OMNES@main/MIRA/mira_pleased.png",
+    "thinking":     "https://cdn.jsdelivr.net/gh/NanShouan/OMNES@main/MIRA/mira_think.png",
+    "surprised":    "https://cdn.jsdelivr.net/gh/NanShouan/OMNES@main/MIRA/mira_surprised.png",
+    "depressed":    "https://cdn.jsdelivr.net/gh/NanShouan/OMNES@main/MIRA/mira_depressed.png",
+    "embarrassed":  "https://cdn.jsdelivr.net/gh/NanShouan/OMNES@main/MIRA/mira_embarrassed.png"
   }
 }
